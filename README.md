@@ -19,4 +19,4 @@ To use the File Manipulation Tool, follow these steps:
 
 1. **Read File**: Select option 1 to read the contents of a file. You will be prompted to enter the file name.
 2. **Write to File**: Select option 2 to write content to a file. You will be prompted to enter the file name and content.
-## There is also a document (Benefits of Nodejs) citing the benefits of NodeJs
+## There is also a document (Nodejs Benefits) citing the benefits of NodeJs
